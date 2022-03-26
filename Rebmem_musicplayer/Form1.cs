@@ -15,7 +15,7 @@ namespace Rebmem_musicplayer
 {
     public partial class music_player : Forms
     {
-        //my new comment
+        //my new commentsssssss
         Timer timer = new Timer();//intialize timer object
         Dictionary<string, Color> dicBackColor = new Dictionary<string, Color>();//save list of button control colors 
         // this list object will save file paths
