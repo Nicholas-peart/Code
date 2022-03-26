@@ -13,9 +13,9 @@ using Rebmem_musicplayer.Viewmodel;
 
 namespace Rebmem_musicplayer
 {
-    public partial class music_player : Form
+    public partial class music_player : Forms
     {
-        //nick comment
+        //my new comment
         Timer timer = new Timer();//intialize timer object
         Dictionary<string, Color> dicBackColor = new Dictionary<string, Color>();//save list of button control colors 
         // this list object will save file paths
